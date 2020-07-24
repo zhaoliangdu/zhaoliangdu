@@ -11,8 +11,10 @@
 
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=zhaoliangdu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-## My partial repository
-
+## My partial Skills
+spring springmvc springboot mybatis  linux 常用命令 项目自动部署 
+## Experience in project
+关系学院，北京一路平安
 ## Contact
 
 	QQ: 529989217
