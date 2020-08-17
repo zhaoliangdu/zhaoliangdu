@@ -20,7 +20,7 @@ spring springmvc springboot mybatis  linux 常用命令 项目自动部署
 	QQ: 529989217
 	E-mail: zhao910825@gmail.com
 	wechat:lance_zhao
-	website:<a href="https://zhaoliangdu.github.io" target="_blank">myblog</a>
+	website: myblog<https://zhaoliangdu.github.io>
 
 ## Visitors
 
