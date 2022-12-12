@@ -14,7 +14,7 @@
 ## My partial Skills
 spring springmvc springboot mybatis  linux 常用命令 项目自动部署 
 ## Experience in project
-关系学院，北京一路平安
+关系学院，北京一路平安,一汽丰田试乘试驾，栈庐，云南惠管家
 ## Contact
 
 	QQ: 529989217
